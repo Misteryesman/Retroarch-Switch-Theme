@@ -8,6 +8,7 @@ Custom icons and dynamic backgrounds for using on RetroArch/Lakka XBM interface.
     Create a folder named "custom" on your RetroArch assets/xmb folder:
 
 Retroarch (RetroArch\assets\xmb\custom)
+
 Lakka (\\lakka\Assets\xmb\custom)
 
     From inside the retrosystem folder, copy the folder named "png" and the file named "font.ttf" to the custom folder
