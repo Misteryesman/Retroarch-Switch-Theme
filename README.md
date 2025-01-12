@@ -27,6 +27,6 @@ Menu Icon Theme: Custom
 Thumbnails: OFF
 Left Thumbnail: Boxart
 
-3 - Profit
-
     Go back to Settings > Directory and change the Dynamic Backgrounds folder to "assets/wallpapers"
+
+3 - Profit
