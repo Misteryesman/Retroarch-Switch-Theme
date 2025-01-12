@@ -11,7 +11,8 @@ Retroarch (RetroArch\assets\xmb\custom)
 
 Lakka (\\lakka\Assets\xmb\custom)
 
-    From inside the retrosystem folder, copy the folder named "png" and the file named "font.ttf" to the custom folder
+    From inside the retrosystem folder, copy the folder named "png"
+    and the file named "font.ttf" to the custom folder
 
     If you do not have one, create a "wallpapers" folder inside of the assets folder
 
@@ -27,6 +28,7 @@ Menu Icon Theme: Custom
 Thumbnails: OFF
 Left Thumbnail: Boxart
 
-    Go back to Settings > Directory and change the Dynamic Backgrounds folder to "assets/wallpapers"
+    Go back to Settings > Directory 
+    and change the Dynamic Backgrounds folder to "assets/wallpapers"
 
 3 - Profit
